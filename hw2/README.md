@@ -1,0 +1,1 @@
+[ссылка на задание](https://github.com/kuso4egdobra/java-core-hw-mipt-2021/tree/master/hw2/task.pdf)
